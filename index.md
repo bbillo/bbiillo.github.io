@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Curriculum Vitae
-permalink: /cv/
+title: Muhammad Nabil Dhiyaulhaq
 ---
 
 # Muhammad Nabil Dhiyaulhaq  
@@ -15,55 +14,38 @@ Artificial Intelligence Engineering Student
 
 ## About Me
 
-I am currently a second-semester student in Artificial Intelligence Engineering at Institut Teknologi Sepuluh Nopember. I have a strong passion for entrepreneurship and organizational involvement. I thrive in leadership roles, public speaking environments, and collaborative projects.
+I am an Artificial Intelligence Engineering student at Institut Teknologi Sepuluh Nopember with a strong passion for entrepreneurship, leadership, and organizational development.
 
 ---
 
 ## Education
 
-### Institut Teknologi Sepuluh Nopember  
+**Institut Teknologi Sepuluh Nopember**  
 Undergraduate in Artificial Intelligence Engineering (2024 - Present)
 
-### SMAS Islam Athirah Boarding School Bone  
+**SMAS Islam Athirah Boarding School Bone**  
 High School Diploma in MIPA (2021 - 2024)
 
 ---
 
 ## Organizational Experience
 
-### OSIS (2022 - 2023)
-- Public Speaking Division  
-- Entrepreneurship and IT Division  
+**OSIS (2022 - 2023)**  
+Public Speaking & Entrepreneurship Division  
 
-### Language Council (2022 - 2023)
-- Public Speaking Division (English & Arabic Development)
-
----
-
-## Committee & Volunteer Experience
-
-### English Camp – Committee Chairman
-Led event coordination and established English Camp as an annual program.
-
-### Muda Berwirausaha – Treasurer
-Managed financial planning and collaborated with PT Semen Tonasa.
-
-### Schematics Reeva 2024
-Volunteer Guide Exhibition.
+**Language Council (2022 - 2023)**  
+Public Speaking Division  
 
 ---
 
 ## Achievements
 
-- 🥈 First Runner-Up – Novice English Debate Competition  
-- 🥇 1st Place – 3D Bulletin Board Competition  
+🥈 First Runner-Up – Novice English Debate Competition  
+🥇 1st Place – 3D Bulletin Board Competition  
 
 ---
 
 ## Skills
 
-**Soft Skills:**  
-Teamwork, Public Speaking, Time Management, Adaptability  
-
-**Hard Skills:**  
-CapCut, Microsoft Office, Canva, CorelDraw
+**Soft Skills:** Teamwork, Public Speaking, Time Management, Adaptability  
+**Hard Skills:** CapCut, Microsoft Office, Canva, CorelDraw
